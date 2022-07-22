@@ -1,0 +1,5 @@
+#
+#Fri Jul 22 16:28:58 SAST 2022
+co.za.ghdlogistics.service.CustomerHttpController=org.springframework.stereotype.Component
+co.za.ghdlogistics.service.CustomerServiceApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+co.za.ghdlogistics.service.CustomerRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
